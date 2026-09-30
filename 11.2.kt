@@ -2,8 +2,8 @@ import javax.swing.*
 import java.awt.*
 
 open class NumberPair(
-    var field1: Double,   // Поле 1 (a)
-    var field2: Double     // Поле 2 (b)
+    var field1: Double,  
+    var field2: Double    
 ) {
     constructor() : this(0.0, 0.0)
 
